@@ -1,5 +1,5 @@
 {
-    "name": "McMc",
+    "name": "rubyblock",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -17,7 +17,6 @@
         "enum/RubyCloneMode.ts",
         "enum/RubyAxis.ts",
         "enum/RubySixDirection.ts",
-        "enum/RubyTurnDirection.ts",
         "enum/RubyCompassDirection.ts",
         "enum/RubyAnimalMob.ts",
         "enum/RubyMonsterMob.ts",
@@ -41,12 +40,7 @@
         "RubyText.ts",
         "RubyMath.ts",
         "RubyLoops.ts",
-        "RubyPlayer.ts",
-        "docs/tutorials/block01/lesson01/agent-move.md",
-        "docs/tutorials/block01/lesson01/agent.md",
-        "docs/tutorials/block01/lesson01/agent-up.md",
-        "docs/tutorials/block01/lesson01/last-room.md",
-        "docs/tutorials/block01/lesson01/welcome.md"
+        "RubyPlayer.ts"
     ],
     "testFiles": [
         "test.ts"
