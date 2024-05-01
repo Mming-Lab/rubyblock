@@ -1,5 +1,5 @@
 
-> このページを開く [https://mming-lab.github.io/rubyblock/](https://mming-lab.github.io/rubyblock/)
+> このページを開く [https://yutari-club.github.io/mcmc/](https://yutari-club.github.io/mcmc/)
 
 ## 拡張機能として使用
 
@@ -8,7 +8,7 @@
 * [https://minecraft.makecode.com/](https://minecraft.makecode.com/) を開く
 * **新しいプロジェクト** をクリックしてください
 * ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/mming-lab/rubyblock** を検索してインポートします。
+* **https://github.com/yutari-club/mcmc** を検索してインポートします。
 
 ## このプロジェクトを編集します
 
@@ -16,7 +16,7 @@ MakeCode でこのリポジトリを編集します。
 
 * [https://minecraft.makecode.com/](https://minecraft.makecode.com/) を開く
 * **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
-* **https://github.com/mming-lab/rubyblock** を貼り付けてインポートをクリックしてください
+* **https://github.com/yutari-club/mcmc** を貼り付けてインポートをクリックしてください
 
 #### メタデータ (検索、レンダリングに使用)
 
