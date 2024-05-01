@@ -30,6 +30,7 @@
         "enum/RubyLeverPosition.ts",
         "enum/RubyComparatorMode.ts",
         "enum/RubyShapeOperatio.ts",
+        "enum/RubyTurnDirection.ts",
         "RubyAgent.ts",
         "RubyBuilder.ts",
         "RubyMobs.ts",
